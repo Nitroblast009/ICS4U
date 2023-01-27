@@ -33,6 +33,3 @@ public:
     */
     virtual inline void scribble(std::ofstream &paper) = 0;
 };
-
-
-#include "pen_utilities.h"
